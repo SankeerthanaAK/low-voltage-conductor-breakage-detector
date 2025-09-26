@@ -64,4 +64,13 @@ The `main.ino` file contains the complete firmware for the ESP32, including the 
 3.  **Model Conversion:** Run the Python script to generate `model_data.h`.
 4.  **Upload Code:** Upload the `main.ino` and `model_data.h` files to your ESP32.
 
-✍️ Author: Rohan Pydipalli
+## My Contributions
+- Helped with testing and debugging the hardware prototype to ensure reliable performance  
+- Took complete responsibility for documentation and reporting (problem statement, methodology, results, etc.)  
+- Assisted in the software part (integration and code debugging) to support smooth execution
+
+---
+
+## Acknowledgements  
+Original collaboration with my teammate [darkdelta698] (https://github.com/darkdelta698).  
+This fork highlights my personal contributions and documentation.  
